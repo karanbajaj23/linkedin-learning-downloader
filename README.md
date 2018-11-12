@@ -12,9 +12,7 @@ Dependencies:
 #### Info
 
 Please use this script for your own purposes.
-
 This script was written for educational usage only.
-
 Make sure your LinkedIn account is **NOT** protected with 2FA
 
 #### Usage
@@ -37,3 +35,7 @@ SLUG: python-advanced-design-pattern
  - Add Description
  - Use argparser
  - Fetch courses from bookmarks
+
+#### Update
+
+Added playlist generator (alphabetical order) for all mp4 files - spits out a .m3u file with all lectures in correct sequence
